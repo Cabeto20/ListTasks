@@ -64,7 +64,10 @@ ListaPhp/
 │   └── index.php
 ├── database.php
 ├── .htaccess
-└── README.md
+├── lista.db
+├── php.ini
+├── README.md
+└── teste_sqlite.php
 ```
 
 ## 💾 Banco de Dados
